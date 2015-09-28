@@ -1,0 +1,1 @@
+/Users/shaxbee/.config/zsh/.zprezto/runcoms/zlogin
