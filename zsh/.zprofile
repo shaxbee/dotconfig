@@ -1,1 +1,1 @@
-/Users/shaxbee/.config/zsh/.zprezto/runcoms/zprofile
+.zprezto/runcoms/zprofile

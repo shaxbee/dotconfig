@@ -1,1 +1,1 @@
-/Users/shaxbee/.config/zsh/.zprezto/runcoms/zlogout
+.zprezto/runcoms/zlogout
