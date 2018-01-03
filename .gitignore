@@ -1,2 +1,8 @@
-deluge
-.isolated-storage
+deluge/
+.isolated-storage/
+zsh/.zcompcache/
+yarn/
+gocode/
+gcloud/
+browserify/
+configstore/

@@ -1,6 +1,7 @@
 [submodule "zsh/.zprezto"]
 	path = zsh/.zprezto
 	url = https://github.com/shaxbee/prezto.git
+	branch = master
 [submodule "vim"]
 	path = vim
 	url = https://github.com/shaxbee/dotvim.git
